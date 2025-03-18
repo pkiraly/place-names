@@ -1,7 +1,7 @@
 <?php
 
-$in = fopen('../data_internal/place-synonyms.csv', "r");
-$out = fopen('../data_internal/place-synonyms-normalized.csv', 'w');
+$in = fopen('data_internal/place-synonyms.csv', "r");
+$out = fopen('data/place-synonyms-normalized.csv', 'w');
 fputcsv($out, ['original','normalized', 'factor']);
 
 $synonyms = 0;

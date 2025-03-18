@@ -292,6 +292,7 @@ Antvverpiae,Antwerpen,1
 "Viennae [Antwerpen, Wien]",Antwerpen,0.5
 "Viennae [Antwerpen, Wien]",Wien,0.5
 Aarhus,Århus,1
+Århus,Århus,1
 Arnstadii,Arnstadt,1
 Arnstadia,Arnstadt,1
 "Arnstadt und Rudolstadt",Arnstadt,1
@@ -1199,6 +1200,7 @@ Brün[n],Brno,1
 [Brno?],Brno,1
 "Brno,",Brno,1
 Brno?,Brno,1
+"V Brně",Brno,1
 "Viennae et Brunae",Brno,1
 "Wienn und Brünn",Brno,1
 "Wienn u. Brünn",Brno,1
@@ -3138,6 +3140,7 @@ Germanien=Hannover,Hannover,1
 "Hannover und London",London,0.5
 "Hannover und Osnabrück",Hannover,0.5
 "Hannover und Osnabrück",Osnabrück,0.5
+"Hà Nội",Hanoi,1
 Harderovici,Harderwijk,1
 Harderovici.,Harderwijk,1
 Hardervici,Harderwijk,1
@@ -3372,6 +3375,7 @@ Konstantinupolei,Istanbul,1
 "A Constantinople [Istanbul]",Istanbul,1
 Constantinopole,Istanbul,1
 Stamboul,Istanbul,1
+İstanbul,Istanbul,1
 Ithaca,"Ithaca, NY",1
 Djakarta,Jakarta,1
 Jászó,Jasov,1
@@ -3432,6 +3436,7 @@ Yerušalayim,Jerusalem,1
 Yerūšalayim,Jerusalem,1
 Yerus̆alayim,Jerusalem,1
 Jerozolima,Jerusalem,1
+Ierusalem,Jerusalem,1
 [Jihlava,Jihlava,1
 [Jihlava?,Jihlava,1
 [Jihlava],Jihlava,1
@@ -3441,6 +3446,7 @@ Jerozolima,Jerusalem,1
 Juva],Juva,1
 JUVA,Juva,1
 Juva;,Juva,1
+Jyväskylä,Jyväskylä,1
 Regiomonti,Kaliningrad,1
 Regiomonte,Kaliningrad,1
 "Regiomonti Borussiae",Kaliningrad,1
@@ -4156,6 +4162,8 @@ Koppenhagen,København,1
 "Francofurti et Hafniae",København,1
 "Hafniae Et Lipsiae",København,1
 "Havniae et Lipsiae",København,1
+"København og Oslo",København,0.5
+"København og Oslo",Oslo,0.5
 "[Kutná Hora","Kutná Hora",1
 "[Kutná Hora?","Kutná Hora",1
 "[Kutná Hora]","Kutná Hora",1
@@ -4970,6 +4978,7 @@ Londonii,London,1
 "A Londres [fing.]",London,1
 "A Londres [fingiert?]",London,1
 "London, GB",London,1
+"London, England",London,1
 "Wienn, Paris, und London",London,0.33333333333333
 "Wienn, Paris, und London",Wien,0.33333333333333
 "Wienn, Paris, und London",Paris,0.33333333333333
@@ -5075,6 +5084,7 @@ Lucae,Lucca,1
 Lucæ,Lucca,1
 "in Lucca",Lucca,1
 Losonc,Lučenec,1
+Lugarno,Lugano,1
 "Londini Gothorum",Lund,1
 "Lundini Gothorum",Lund,1
 "Lundini gothorum",Lund,1
@@ -6241,6 +6251,7 @@ Polska,Poland,1
 [Polska?],Poland,1
 [Polska?:,Poland,1
 Pôrto,Porto,1
+"Pôrto Alegre","Porto Alegre",1
 "Pottendorf, A",Pottendorf,1
 Poznań,Poznań,1
 Poznaniu,Poznań,1
@@ -6265,7 +6276,8 @@ Posnaniae,Poznań,1
 "W Pozaniu",Poznań,1
 "W poznaniu",Poznań,1
 "W Poznaniu,",Poznań,1
-"W Warszawie i w Poznaniu",Poznań,1
+"W Warszawie i w Poznaniu",Warszawa,0.5
+"W Warszawie i w Poznaniu",Poznań,0.5
 Prag,Praha,1
 Prague,Praha,1
 "V Praze",Praha,1
@@ -6371,6 +6383,7 @@ Praha?,Praha,1
 Praha],Praha,1
 "[Praha ]:",Praha,1
 Prága,Praha,1
+Praze,Praha,1
 "Prag und Wien",Praha,1
 "Prag und Leipzig",Praha,1
 "Wien u. Prag",Praha,1
@@ -6761,6 +6774,7 @@ Sevilla,Sevilla,1
 Sempte,Šintava,1
 Scarae,Skara,1
 Scaris,Skara,1
+Skopǰe,Skopje,1
 Sofia,Sofija,1
 Sofiâ,Sofija,1
 Somerset,"Somerset, NJ",1
@@ -7847,6 +7861,7 @@ Varsaviaae,Warszawa,1
 "Lipsk [Warszawa]",Warszawa,1
 "Londres [i.e. Warszawa?]",Warszawa,1
 "Neuhof bey Warschau",Warszawa,1
+Varšava,Warszawa,1
 "Varsaviae ; Leopoli et Dresdae",Warszawa,1
 "Warschau, Lemberg und Dresden",Warszawa,0.33333333333333
 "Warschau, Lemberg und Dresden",L'vìv,0.33333333333333
