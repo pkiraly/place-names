@@ -5158,6 +5158,10 @@ Madridii,Madrid,1
 "Madrit und Rom",Rom,0.5
 "A Madrid et se trouve a Paris",Madrid,0.5
 "A Madrid et se trouve a Paris",Paris,0.5
+"Madrid, Barcelona, Mexico, Budapest",Madrid,0.25
+"Madrid, Barcelona, Mexico, Budapest",Barcelona,0.25
+"Madrid, Barcelona, Mexico, Budapest",Mexico,0.25
+"Madrid, Barcelona, Mexico, Budapest",Budapest,0.25
 Magdeburgicae,Magdeburg,1
 Magdeburgi,Magdeburg,1
 [Magdeburg?],Magdeburg,1
@@ -5268,6 +5272,10 @@ Túrócszentmárton,Martin,1
 "Métuchen, NJ","Metuchen, NJ",1
 México,"Mexico City",1
 Mexico,"Mexico City",1
+México,"Mexico City",1
+"México, D.F","Mexico City",1
+"México, D.F.","Mexico City",1
+"México, D.F.","Mexico City",1
 Middelburgh,Middelburg,1
 Mediobvrgi,Middelburg,1
 Milan,Milano,1
@@ -5346,11 +5354,6 @@ Brüx,Most,1
 "In der Königl. Stadt Brüx",Most,1
 [Most,Most,1
 [Most],Most,1
-México,México,1
-"México, D.F",México,1
-"México, D.F.",México,1
-Mexico,México,1
-"México, D.F.",México,1
 München,München,1
 Mjunchen,München,1
 Munich,München,1
@@ -6755,6 +6758,7 @@ Schweinfurth,Schweinfurt,1
 Schafhausen,Schaffhausen,1
 Seattle,"Seattle, WA",1
 Szászsebes,Sebeş,1
+Sŏul,Seoul,1
 Szenice,Senica,1
 Selmecbánya,"Banská Štiavnica",1
 [Schemnitz],"Banská Štiavnica",1
@@ -6772,6 +6776,7 @@ Seuilla,Sevilla,1
 Sevilla,Sevilla,1
 "en Seuilla",Sevilla,1
 Sempte,Šintava,1
+Syrakuzy,Siracusa,1
 Scarae,Skara,1
 Scaris,Skara,1
 Skopǰe,Skopje,1
@@ -7043,6 +7048,7 @@ Sabariae,Szombathely,1
 [Sabariae],Szombathely,1
 [Szombathely],Szombathely,1
 Steinamanger,Szombathely,1
+"Taibei shi",Taipei,1
 Revaliae,Tallinn,1
 Reval,Tallinn,1
 Tallin,Tallinn,1
