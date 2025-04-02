@@ -580,6 +580,7 @@ Baghdad,Bagdad,1
 Baghdad?,Bagdad,1
 Baghdād,Bagdad,1
 Bag̣dād,Bagdad,1
+Baġdād,Bagdad,1
 Baky,Baku,1
 Baki,Baku,1
 Bakı,Baku,1
@@ -1300,6 +1301,11 @@ București,Bucureşti,1
 Bucuręsti,Bucureşti,1
 Buharest,Bucureşti,1
 Bukarešt,Bucureşti,1
+Bucuręsti,Bucureşti,1
+Bucuresţi,Bucureşti,1
+Bucureṣti,Bucureşti,1
+"Varsovia ; Bucuresti",Warszawa,0.5
+"Varsovia ; Bucuresti",Bucureşti,0.5
 Budae,Buda,1
 "Budae [Budapest]",Buda,1
 Budæ,Buda,1
@@ -1498,9 +1504,12 @@ Kiscell,Celldömölk,1
 "[České Budějovice","České Budějovice",1
 "[České Budějovice?","České Budějovice",1
 "Chapel Hill","Chapel Hill, NC",1
+"Charleston SC","Charleston, SC",1
+Charleston,"Charleston, SC",1
 [Cheb,Cheb,1
 [Cheb?,Cheb,1
 [Cheb],Cheb,1
+Černìvcì,Chernivtsi,1
 Chicago,"Chicago, IL",1
 "Chicago, Ill.","Chicago, IL",1
 Kišinev,Chisinau,1
@@ -1534,6 +1543,9 @@ Kishinev,Chisinau,1
 Chiinău,Chisinau,1
 Coira,Chur,1
 [Chur],Chur,1
+"Czeski Cieszyn","Český Těšín",1
+"Český Téšin","Český Těšín",1
+"Český Téšín","Český Těšín",1
 "Cincinnatti, OH","Cincinnati, OH",1
 Cincinatti,"Cincinnati, OH",1
 Cincinnati,"Cincinnati, OH",1
@@ -1591,6 +1603,8 @@ Csík[somlyó],Şumuleu,1
 Diakovár,Ðakovo,1
 Dimašq,Damascus,1
 Damaskus,Damascus,1
+Dimašq,Damascus,1
+Dimašq?,Damascus,1
 Darmstadii,Darmstadt,1
 "New Delhi",Delhi,1
 Delf,Delft,1
@@ -2537,6 +2551,8 @@ Freystatt,Freystadt,1
 "Züllichau und Freystadt",Freystadt,0.5
 "Züllichau und Freystadt",Sulechów,0.5
 Fuldae,Fulda,1
+"Garden City, New York","Garden City, NY",1
+"Garden City","Garden City, NY",1
 Danzing,Gdańsk,1
 Dantzig,Gdańsk,1
 Dantzigk,Gdańsk,1
@@ -2566,6 +2582,11 @@ Danzic,Gdańsk,1
 [Danzig,Gdańsk,1
 "A Danzig",Gdańsk,1
 Dancka,Gdańsk,1
+Gduńsk,Gdańsk,1
+Gdãnsk,Gdańsk,1
+Gdański,Gdańsk,1
+GdañNsk,Gdańsk,1
+Gdansk,Gdańsk,1
 "Danzig und Leipzig",Gdańsk,1
 "Gedani et Lipsiae",Gdańsk,1
 "Danzig und Dessau",Gdańsk,1
@@ -3211,6 +3232,8 @@ Harkív,Harkìv,1
 Harkïv,Harkìv,1
 Kharkiv,Harkìv,1
 Har'kov,Harkìv,1
+Harʹkov,Harkìv,1
+Char'kov,Harkìv,1
 "Harmondsworth, Middlesex",Harmondsworth,1
 Heidelbergae,Heidelberg,1
 Heidelbergæ,Heidelberg,1
@@ -3284,7 +3307,15 @@ Gel'singfors'',Helsinki,1
 Helsingofors,Helsinki,1
 H:fors,Helsinki,1
 Gelsingfors,Helsinki,1
+Hesinki,Helsinki,1
 Galgóc,Hlohovec,1
+"Tp. Hồ Chi Minh","Ho Chi Minh City",1
+"p. Hồ Chí Minh","Ho Chi Minh City",1
+"T.P. Hồ Chí Minh","Ho Chi Minh City",1
+"TP. Hồ Chí Minh","Ho Chi Minh City",1
+"Tp. Hồ Chí Minh","Ho Chi Minh City",1
+"Thành phố Hồ Chí Minh","Ho Chi Minh City",1
+"Hồ Chí Minh","Ho Chi Minh City",1
 Hofae,Hof,1
 "Amsterdam [i.e. Hof]",Hof,1
 lHof,Hof,1
@@ -3414,7 +3445,15 @@ Konstantinupolei,Istanbul,1
 Constantinopole,Istanbul,1
 Stamboul,Istanbul,1
 İstanbul,Istanbul,1
+"Galatasaray, İstanbul",Istanbul,1
+Beyoğlu-İstanbul,Istanbul,1
+İnstanbul,Istanbul,1
+"Beyoǧlu, İstanbul",Istanbul,1
+Cağaloğlu/Istanbul,Istanbul,1
+Istambul,Istanbul,1
+İstambul,Istanbul,1
 Ithaca,"Ithaca, NY",1
+Ìvano-Frankìvs'k,Ivano-Frankivsk,1
 Iževsk,Izhevsk,1
 Djakarta,Jakarta,1
 Jászó,Jasov,1
@@ -3478,6 +3517,8 @@ Jerozolima,Jerusalem,1
 Ierusalem,Jerusalem,1
 Jeruzsálem,Jerusalem,1
 Yerẇšalayim,Jerusalem,1
+Yerẇšalaiym,Jerusalem,1
+Yerûšālayim,Jerusalem,1
 [Jihlava,Jihlava,1
 [Jihlava?,Jihlava,1
 [Jihlava],Jihlava,1
@@ -4211,6 +4252,7 @@ KØbenhavn,København,1
 "Havniae et Lipsiae",København,1
 "København og Oslo",København,0.5
 "København og Oslo",Oslo,0.5
+Krasnojarsk,Krasnoyarsk,1
 "[Kutná Hora","Kutná Hora",1
 "[Kutná Hora?","Kutná Hora",1
 "[Kutná Hora]","Kutná Hora",1
@@ -4264,6 +4306,7 @@ Lwów:,L'vìv,1
 "We Lwów",L'vìv,1
 "y Lwowie",L'vìv,1
 Ľviv,L'vìv,1
+Lʹvìv,L'vìv,1
 "W Warszawie y w Lwowie",L'vìv,1
 "W Lipsku y we Lwowie",L'vìv,1
 "W Warszawie i Lwowie",L'vìv,1
@@ -5202,6 +5245,25 @@ Madrit,Madrid,1
 "Con Licencia: En Madrid",Madrid,1
 "Impressa En Madrid",Madrid,1
 Madridii,Madrid,1
+Madryt,Madrid,1
+"Velilla de San Antonio (Madrid)",Madrid,1
+"Pozuelo de Alarcón (Madrid)",Madrid,1
+"Boadilla del Monte, Madrid",Madrid,1
+"Algete (Madrid)",Madrid,1
+"Arganda del Rey (Madrid)",Madrid,1
+"Collado Villalba, Madrid",Madrid,1
+"Pozuelo de Alarcòn (Madrid)",Madrid,1
+"Villaviciosa de Odòn, Madrid",Madrid,1
+"Alcalá (Madrid)",Madrid,1
+"Tres Cantos (Madrid)",Madrid,1
+"Las Rozas, Madrid",Madrid,1
+"Pozuelo de Alarcón, Madrid",Madrid,1
+"Alcorcòn (Madrid)",Madrid,1
+"Alcobendas (Madrid)",Madrid,1
+"Pozuelo (Madrid)",Madrid,1
+"Velilla de San Antonio, Madrid",Madrid,1
+"San Lorenzo de El Escorial [Madrid",Madrid,1
+"Tres Cantos, Madrid",Madrid,1
 "Madrit und Rom",Madrid,0.5
 "Madrit und Rom",Rom,0.5
 "A Madrid et se trouve a Paris",Madrid,0.5
@@ -5339,6 +5401,11 @@ México,"Mexico City",1
 "México, D.F","Mexico City",1
 "México, D.F.","Mexico City",1
 "México, D.F.","Mexico City",1
+"Ciudad de México","Mexico City",1
+"México D.F.","Mexico City",1
+"México, D. F.","Mexico City",1
+"México DF","Mexico City",1
+Miami,"Miami, FL",1
 Middelburgh,Middelburg,1
 Mediobvrgi,Middelburg,1
 Milan,Milano,1
@@ -5896,6 +5963,10 @@ Njujork,"New York",1
 "New York [N. Y.","New York",1
 "New York, [N.Y.]","New York",1
 "New York, N.Y.","New York",1
+"New York City","New York",1
+"Brooklyn, New York","New York",1
+"New York, New York","New York",1
+"New York NY","New York",1
 Nizza,Nice,1
 Leukōsia,Nicosia,1
 Nĳkerk,Nijkerk,1
@@ -6566,6 +6637,7 @@ Reuttlingen,Reutlingen,1
 [Reutlingen],Reutlingen,1
 "A Reutlingue",Reutlingen,1
 Reykjavík,Reykjavík,1
+Richmond,"Richmond, BC",1
 Rigae,Riga,1
 "Rigae Livonum",Riga,1
 Rīga,Riga,1
@@ -6840,6 +6912,7 @@ Schafhausen,Schaffhausen,1
 Seattle,"Seattle, WA",1
 Szászsebes,Sebeş,1
 Sŏul,Seoul,1
+Seul,Seoul,1
 Szenice,Senica,1
 Selmecbánya,"Banská Štiavnica",1
 [Schemnitz],"Banská Štiavnica",1
@@ -6861,6 +6934,7 @@ Syrakuzy,Siracusa,1
 Scarae,Skara,1
 Scaris,Skara,1
 Skopǰe,Skopje,1
+Skop̌je,Skopje,1
 Sofia,Sofija,1
 Sofiâ,Sofija,1
 Szófia,Sofija,1
@@ -7136,12 +7210,16 @@ Steinamanger,Szombathely,1
 Savariae,Szombathely,1
 Šombathej,Szombathely,1
 "Taibei shi",Taipei,1
+Taibeishi,Taipei,1
+Taibei,Taipei,1
+"Taibei Shi",Taipei,1
 Revaliae,Tallinn,1
 Reval,Tallinn,1
 Tallin,Tallinn,1
 "W Tarnowie",Tarnów,1
 Tarnoviae,Tarnów,1
 [Tarnów,Tarnów,1
+Ternopìlʹ,Tarnopol,1
 Dorpat,Tartu,1
 Dorpat?,Tartu,1
 Dorpati,Tartu,1
@@ -7162,6 +7240,7 @@ Toškent]Tachkent,Tashkent,1
 TaÅ¡kent,Tashkent,1
 Tbiliszi,Tbilisi,1
 Thbiliszi,Tbilisi,1
+T'bilisi,Tbilisi,1
 Tehrân,Tehran,1
 Teheran,Tehran,1
 Tel-Aviv,"Tel Aviv",1
@@ -7208,6 +7287,7 @@ Tel-'Åbiyb,"Tel Aviv",1
 Tel-Áviv,"Tel Aviv",1
 Tel-ʾabiyb,"Tel Aviv",1
 Tel-'abyb,"Tel Aviv",1
+Tel-ʿAbiyb,"Tel Aviv",1
 Temesvár,Timişoara,1
 "Temesvár [Timișoara]",Timişoara,1
 Timişoara,Timişoara,1
@@ -7971,6 +8051,7 @@ Varsaviaae,Warszawa,1
 "Londres [i.e. Warszawa?]",Warszawa,1
 "Neuhof bey Warschau",Warszawa,1
 Varšava,Warszawa,1
+Varsovio,Warszawa,1
 "Varsaviae ; Leopoli et Dresdae",Warszawa,1
 "Warschau, Lemberg und Dresden",Warszawa,0.33333333333333
 "Warschau, Lemberg und Dresden",L'vìv,0.33333333333333
