@@ -4,6 +4,8 @@ $in = fopen('data_internal/place-synonyms.csv', "r");
 $out = fopen('data/place-synonyms-normalized.csv', 'w');
 fputcsv($out, ['original','normalized', 'factor']);
 
+$citiesWithCoords = getCities();
+// print_r($cities);
 $synonyms = 0;
 $cities = 0;
 $normalized_cities = [];
@@ -17,8 +19,13 @@ while (($line = fgets($in)) != false) {
   $line = trim($line);
   $values = explode('=', $line, 2);
   $normalized = $values[0];
-  if (isset($normalized_cities[$normalized]) && !$prev_is_multi) 
-    printf("%s= is duplicated\n", $normalized);
+  $is_multi = preg_match('/\|/', $normalized);
+  if (isset($normalized_cities[$normalized]) && !$prev_is_multi)
+    printf("'%s' is duplicated\n", $normalized);
+  if (!$is_multi) {
+    if (!isset($citiesWithCoords[$normalized]))
+      printf("'%s' is not registered in coord.csv\n", $normalized);
+  }
   $normalized_cities[$normalized] = true;
   $normalized = explode('|', $normalized);
   $originals = explode('|', $values[1]);
@@ -56,4 +63,37 @@ function array2csv($fields, $delimiter = ",", $enclosure = '"', $escape_char = "
   $csv = fgets($buffer);
   fclose($buffer);
   return $csv;
+}
+
+function getCities() {
+  $cities = [];
+  $ids = [];
+  $coord = fopen('data/coord.csv', "r");
+  if ($coord) {
+    $lineNumber = 0;
+    while (($line = fgets($coord)) !== false) {
+      $lineNumber++;
+      $values = str_getcsv($line);
+      if ($lineNumber == 1) {
+        $header = $values;
+      } else {
+        if (count($header) != count($values)) {
+          error_log(sprintf('error in %s line #%d: %d vs %d (%s)', $coord, $lineNumber, count($header), count($values), $line));
+        }
+        $record = (object)array_combine($header, $values);
+        if (isset($cities[$record->city])) {
+          error_log("Duplicated city in coord: " . $record->city);
+        } else {
+          $cities[$record->city] = 1;
+        }
+
+        if (isset($ids[$record->geoid])) {
+          error_log(sprintf("Duplicated geoid in coord: %d (%s)", $record->geoid, $record->city));
+        } else {
+          $ids[$record->geoid] = 1;
+        }
+      }
+    }
+  }
+  return $cities;
 }

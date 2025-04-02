@@ -17,6 +17,8 @@ Compluti,"Alcalá de Henares",1
 "Allendale, NJ [etc.]: Alleluia Press","Allendale, NJ",1
 Almaty,Alma-Ata,1
 Alsólindva,Alsólendva,1
+Lendva,Alsólendva,1
+Lendava,Alsólendva,1
 Altenburgi,Altenburg,1
 [Altenburg],Altenburg,1
 "Altenburgi [Altenburg]",Altenburg,1
@@ -670,6 +672,7 @@ Baireuth,Bayreuth,1
 Běijīng,Beijing,1
 Peking,Beijing,1
 Pekin,Beijing,1
+"Békešská Čaba",Békéscsaba,1
 Belgium,Belgia,1
 Belem,Belém,1
 Bellem,Belém,1
@@ -677,6 +680,8 @@ Belgrade,Beograd,1
 Belgrad,Beograd,1
 "A Belgrade u.a.",Beograd,1
 Bellgrad,Beograd,1
+Belgrád,Beograd,1
+Beográd,Beograd,1
 Berdyczow,Berdychiv,1
 "W Berdyczowie",Berdychiv,1
 "w Berdyczowie",Berdychiv,1
@@ -1043,6 +1048,10 @@ Po'sonban,Bratislava,1
 Po'sonbann,Bratislava,1
 Posnii,Bratislava,1
 Press-Burg,Bratislava,1
+"V Bratislave",Bratislava,1
+Bratislavě,Bratislava,1
+Bratislava-Pozsony,Bratislava,1
+Bratislva,Bratislava,1
 "Preßburg, Pest, und Kaschau",Bratislava,1
 "Pressburg u. Oedenburg",Bratislava,1
 "Pressburg, Kaschau und Pest [Pozsony], [Kassa] és [Budapest]",Bratislava,1
@@ -1289,6 +1298,8 @@ Bcuurești,Bucureşti,1
 Bucuresti,Bucureşti,1
 București,Bucureşti,1
 Bucuręsti,Bucureşti,1
+Buharest,Bucureşti,1
+Bukarešt,Bucureşti,1
 Budae,Buda,1
 "Budae [Budapest]",Buda,1
 Budæ,Buda,1
@@ -1431,6 +1442,27 @@ Budape,Budapest,1
 "Duna-Partján [recte: Budapest]",Budapest,1
 Pest-Buda,Budapest,1
 Buda,Budapest,1
+Bp.,Budapest,1
+Budimpešta,Budapest,1
+Budapeŝto,Budapest,1
+Budapešť,Budapest,1
+Budapes,Budapest,1
+"V Budapešti",Budapest,1
+Budapest-Ujpest,Budapest,1
+Buda-Pest,Budapest,1
+Budpest,Budapest,1
+Budapestii,Budapest,1
+Budsapest,Budapest,1
+"Budapest ",Budapest,1
+Budapeša,Budapest,1
+"U Budimpešti",Budapest,1
+Budimpěsta,Budapest,1
+Budapešta,Budapest,1
+Budapeŝt,Budapest,1
+Budapeŝa,Budapest,1
+Budapěst,Budapest,1
+Boedapest,Budapest,1
+Bp].,Budapest,1
 "Buenos Ayres","Buenos Aires",1
 "Buenos Aires, Argentina","Buenos Aires",1
 Buenos-Ayres,"Buenos Aires",1
@@ -1499,6 +1531,7 @@ Kišiněu,Chisinau,1
 Kišinèv,Chisinau,1
 Kichinev,Chisinau,1
 Kishinev,Chisinau,1
+Chiinău,Chisinau,1
 Coira,Chur,1
 [Chur],Chur,1
 "Cincinnatti, OH","Cincinnati, OH",1
@@ -1691,6 +1724,7 @@ Drsdae,Dresden,1
 "Dresde [Dresden]",Dresden,1
 Dresden:,Dresden,1
 Drážďany,Dresden,1
+Drezda,Dresden,1
 "Dresden und Prag",Dresden,0.5
 "Dresden und Prag",Praha,0.5
 "A Basle, & se vend à Dresde",Dresden,0.5
@@ -1724,6 +1758,7 @@ Dusiburgi,Duisburg,1
 "Duisburg und Frankfurth.","Frankfurt am Main",0.5
 "Amstelodami et Duisburgi",Duisburg,0.5
 "Amstelodami et Duisburgi",Amsterdam,0.5
+"Dunajská Streda",Dunaszerdahely,1
 Düsseldorf,Düsseldorf,1
 Dusseldorpii,Düsseldorf,1
 "A Dusseldorff",Düsseldorf,1
@@ -3141,6 +3176,9 @@ Germanien=Hannover,Hannover,1
 "Hannover und Osnabrück",Hannover,0.5
 "Hannover und Osnabrück",Osnabrück,0.5
 "Hà Nội",Hanoi,1
+"Hà Nôi",Hanoi,1
+"Ha Noi",Hanoi,1
+"Hà Noi",Hanoi,1
 Harderovici,Harderwijk,1
 Harderovici.,Harderwijk,1
 Hardervici,Harderwijk,1
@@ -3377,6 +3415,7 @@ Constantinopole,Istanbul,1
 Stamboul,Istanbul,1
 İstanbul,Istanbul,1
 Ithaca,"Ithaca, NY",1
+Iževsk,Izhevsk,1
 Djakarta,Jakarta,1
 Jászó,Jasov,1
 Jastrzębie-Zdrój,"Jastrzębie Zdrój",1
@@ -3437,6 +3476,8 @@ Yerūšalayim,Jerusalem,1
 Yerus̆alayim,Jerusalem,1
 Jerozolima,Jerusalem,1
 Ierusalem,Jerusalem,1
+Jeruzsálem,Jerusalem,1
+Yerẇšalayim,Jerusalem,1
 [Jihlava,Jihlava,1
 [Jihlava?,Jihlava,1
 [Jihlava],Jihlava,1
@@ -3607,6 +3648,7 @@ Cascoviae,Košice,1
 [Kaschau?],Košice,1
 "Kaschau in Ober-Hungarn",Košice,1
 Kosice,Košice,1
+Košice-Kassa,Košice,1
 "Pestini, Budae et Cassoviae",Pest,0.33333333333333
 "Pestini, Budae et Cassoviae",Buda,0.33333333333333
 "Pestini, Budae et Cassoviae",Košice,0.33333333333333
@@ -3679,6 +3721,7 @@ Kyêv,Kiev,1
 Kyĩv,Kiev,1
 [Kìïv],Kiev,1
 [Kiïv?],Kiev,1
+Kijev,Kiev,1
 Nagykikinda,Kikinda,1
 [Klagenfurt],Klagenfurt,1
 Celovec,Klagenfurt,1
@@ -3881,6 +3924,7 @@ Caludiopoli,Cluj-Napoca,1
 Ciaudiopoli,Cluj-Napoca,1
 Kluj,Cluj-Napoca,1
 Ko'losváratt,Cluj-Napoca,1
+Kolozsvár-Napoca,Cluj-Napoca,1
 "Cibinii et Claudiopoli",Nagyszeben,0.5
 "Cibinii et Claudiopoli",Kolozsvár,0.5
 "Kolozsvar es Szeben",Nagyszeben,0.5
@@ -3941,6 +3985,7 @@ Constantiae,Konstanz,1
 Constantiæ,Konstanz,1
 Constantz,Konstanz,1
 [Konstanz],Konstanz,1
+Kozármislény,Kozármisleny,1
 Cracoviae,Kraków,1
 Cracovie,Kraków,1
 "W Krakowie",Kraków,1
@@ -4114,6 +4159,7 @@ Cöllen,Köln,1
 "Leipzig und Köln am Rhein",Köln,1
 "A Cologne & Francfort",Köln,1
 "Coloniae & Francofurti",Köln,1
+Tărcaia,Köröstárkány,1
 Güns,Kőszeg,1
 Kõszegen,Kőszeg,1
 Kõszeg,Kőszeg,1
@@ -4158,6 +4204,7 @@ Coppenhagen,København,1
 Koppenhagen,København,1
 [Kopenhagen],København,1
 [København],København,1
+KØbenhavn,København,1
 "Hafniae et Lipsiae",København,1
 "Francofurti et Hafniae",København,1
 "Hafniae Et Lipsiae",København,1
@@ -5084,6 +5131,7 @@ Lucae,Lucca,1
 Lucæ,Lucca,1
 "in Lucca",Lucca,1
 Losonc,Lučenec,1
+Losonczon,Lučenec,1
 Lugarno,Lugano,1
 "Londini Gothorum",Lund,1
 "Lundini Gothorum",Lund,1
@@ -5235,6 +5283,7 @@ Marburgi-Cattorum,Marburg,1
 [Marburgae?],Marburg,1
 "Marburgi Catterum",Marburg,1
 "Marburi Cattorum [Marburg]",Marburg,1
+Máriabesnyő-Gödöllő,Máriabesnyő,1
 Marosvásárhely,Târgu-Mureş,1
 "Marasvásárhely [Târgu Mureș]",Târgu-Mureş,1
 "Marosváráhely [Târgu-Mureș]",Târgu-Mureş,1
@@ -5266,7 +5315,21 @@ Maros-Vásárhely,Târgu-Mureş,1
 Marosvásárhellyen,Târgu-Mureş,1
 "M. Vásárhely",Târgu-Mureş,1
 "Târgu Mureş",Târgu-Mureş,1
+Tîrgu-Mureş,Târgu-Mureş,1
+"Tîrgu Mureş",Târgu-Mureş,1
 Túrócszentmárton,Martin,1
+"V Turčianskom Sv. Martine",Martin,1
+"Turčiansky Sv. Martin",Martin,1
+"Sv. Martine",Martin,1
+"Ťurciansky Sv. Martin",Martin,1
+"vT. Sv. Martine",Martin,1
+"Turč. Sv. Martin",Martin,1
+"Tuřciansky Sv. Martin",Martin,1
+"V Turcianskom�Sv. Martine",Martin,1
+"Turčiansky Sv. Martine",Martin,1
+"Tǔrciansky Sv. Martin",Martin,1
+"V Turč. Sv. Martine",Martin,1
+Turócz-Szt.-Márton,Martin,1
 "A Marseille",Marseille,1
 "Meisenheim am Glan",Meisenheim,1
 "Métuchen, NJ","Metuchen, NJ",1
@@ -5348,6 +5411,7 @@ Moska,Moskva,1
 "v Moskve",Moskva,1
 "V Moskvě",Moskva,1
 [Moskva],Moskva,1
+Moszkva,Moskva,1
 Óvár,Mosonmagyaróvár,1
 Brüx,Most,1
 "Gedruckt in der königl. Stadt Brüx",Most,1
@@ -5828,6 +5892,10 @@ New-Jork,"New York",1
 "N-û- Jork","New York",1
 Njujork,"New York",1
 "New York, NY","New York",1
+"New York [N.Y.","New York",1
+"New York [N. Y.","New York",1
+"New York, [N.Y.]","New York",1
+"New York, N.Y.","New York",1
 Nizza,Nice,1
 Leukōsia,Nicosia,1
 Nĳkerk,Nijkerk,1
@@ -5847,6 +5915,11 @@ Nordlingae,Nördlingen,1
 "Nördlingen und Franckfurth",Nördlingen,1
 "Salzburg  und Leipzig [das heißt Nürnberg oder Nördlingen?]",Nördlingen,1
 Újvidék,"Novi Sad",1
+Noviszád,"Novi Sad",1
+"U Novom Sadu","Novi Sad",1
+"Nový Sad","Novi Sad",1
+"Novy Sad","Novi Sad",1
+Ujvídék,"Novi Sad",1
 Nürnberg,Nürnberg,1
 Noribergae,Nürnberg,1
 Norimberga,Nürnberg,1
@@ -6219,9 +6292,11 @@ Quinque-Ecclessiis,Pécs,1
 "[Quinque Ecclesiae]",Pécs,1
 Quingue-Ecclesiis,Pécs,1
 Quique-Ecclesiis,Pécs,1
+Pečuh,Pécs,1
 Petroskoi,Petrozavodsk,1
 Pisauri,Pesaro,1
 Philadelphia,"Philadelphia, PA",1
+"W Pilisvörösvár",Pilisvörösvár,1
 Piotrków,"Piotrków Trybunalski",1
 Pisis,Pisa,1
 "[In Pisa]",Pisa,1
@@ -6255,6 +6330,7 @@ Polska,Poland,1
 [Polska?:,Poland,1
 Pôrto,Porto,1
 "Pôrto Alegre","Porto Alegre",1
+Postdam,Potsdam,1
 "Pottendorf, A",Pottendorf,1
 Poznań,Poznań,1
 Poznaniu,Poznań,1
@@ -6387,6 +6463,7 @@ Praha],Praha,1
 "[Praha ]:",Praha,1
 Prága,Praha,1
 Praze,Praha,1
+Práha,Praha,1
 "Prag und Wien",Praha,1
 "Prag und Leipzig",Praha,1
 "Wien u. Prag",Praha,1
@@ -6483,6 +6560,8 @@ Rötzij,Retz,1
 Rötzii,Retz,1
 "Rötz gedruckt",Retz,1
 Resicabánya,Reşiţa,1
+Reșița,Reşiţa,1
+"Resicabánya [Reșița]",Reşiţa,1
 Reuttlingen,Reutlingen,1
 [Reutlingen],Reutlingen,1
 "A Reutlingue",Reutlingen,1
@@ -6590,6 +6669,8 @@ Roterdami,Rotterdam,1
 Rozsnyó,Rožňava,1
 Rosja,Russia,1
 Rózsahegy,Ružomberok,1
+"V Ružomberku",Ružomberok,1
+"v Ružomberku",Ružomberok,1
 Rzeszow,Rzeszów,1
 Saarbrücken,Saarbrücken,1
 "St. Cloud, MN","Saint Cloud, MN",1
@@ -6597,6 +6678,7 @@ Saarbrücken,Saarbrücken,1
 "St. Paul, MN","Saint Paul, MN",1
 "St.Paul, MN","Saint Paul, MN",1
 "Saint Paul 7, MN","Saint Paul, MN",1
+"Saint Paul","Saint Paul, MN",1
 "St.Peter, MN","Saint Peter, MN",1
 Salmanticae,Salamanca,1
 Salisburgi,Salzburg,1
@@ -6646,8 +6728,6 @@ Sandomiriae:,Sandomierz,1
 "W Sandomierz",Sandomierz,1
 "w Sandomierzu",Sandomierz,1
 "W Sandomirzu",Sandomierz,1
-"Saint Paul, MN","Saint Paul",1
-Minesota,"Saint Paul",1
 S.-Peterburg,Sankt-Peterburg,1
 Lenigrad,Sankt-Peterburg,1
 "St. Petersburg",Sankt-Peterburg,1
@@ -6753,6 +6833,7 @@ Compostela,"Santiago de Compostela",1
 Compostella,"Santiago de Compostela",1
 "Santiago Compostela","Santiago de Compostela",1
 "Santiago <[> de Compostela]","Santiago de Compostela",1
+Sarajevó,Sarajevo,1
 Schweinfurth,Schweinfurt,1
 "London [i.e. Schweinfurt]",Schweinfurt,1
 Schafhausen,Schaffhausen,1
@@ -6782,7 +6863,9 @@ Scaris,Skara,1
 Skopǰe,Skopje,1
 Sofia,Sofija,1
 Sofiâ,Sofija,1
+Szófia,Sofija,1
 Somerset,"Somerset, NJ",1
+Šamorín,Somorja,1
 Sopronii,Sopron,1
 Sopronban,Sopron,1
 "Sopronii, Oedenburg",Sopron,1
@@ -6952,6 +7035,7 @@ Stuttgartiae,Stuttgart,1
 Tobolsko=Stuttgart,Stuttgart,1
 Stuttgadiae,Stuttgart,1
 "Frankfurt und Leipzig [recte: Stuttgart]",Stuttgart,1
+Stuttgat,Stuttgart,1
 "Stuttgart und Eßlingen",Stuttgart,1
 "Stuttgardt [Stuttgart] und Tübingen",Stuttgart,0.5
 "Stuttgardt [Stuttgart] und Tübingen",Tübingen,0.5
@@ -6985,6 +7069,7 @@ Stargardt,Stargard,1
 "Stargardt und Leipzig",Stargard,0.5
 "Stargardt und Leipzig",Leipzig,0.5
 Szabadka,Subotica,1
+Szubotica,Subotica,1
 [Supraśl],Supraśl,1
 "W Supraślu",Supraśl,1
 "W Supraslu",Supraśl,1
@@ -7048,6 +7133,8 @@ Sabariae,Szombathely,1
 [Sabariae],Szombathely,1
 [Szombathely],Szombathely,1
 Steinamanger,Szombathely,1
+Savariae,Szombathely,1
+Šombathej,Szombathely,1
 "Taibei shi",Taipei,1
 Revaliae,Tallinn,1
 Reval,Tallinn,1
@@ -7073,6 +7160,8 @@ Taŝkent,Tashkent,1
 Taschkent,Tashkent,1
 Toškent]Tachkent,Tashkent,1
 TaÅ¡kent,Tashkent,1
+Tbiliszi,Tbilisi,1
+Thbiliszi,Tbilisi,1
 Tehrân,Tehran,1
 Teheran,Tehran,1
 Tel-Aviv,"Tel Aviv",1
@@ -7114,6 +7203,11 @@ Tel-·Avîv,"Tel Aviv",1
 "Tel Abiyb","Tel Aviv",1
 Tel-Abiyb,"Tel Aviv",1
 Tel-Abiyb,"Tel Aviv",1
+Tel-'Åbiyb,"Tel Aviv",1
+"Tel- Aviv","Tel Aviv",1
+Tel-Áviv,"Tel Aviv",1
+Tel-ʾabiyb,"Tel Aviv",1
+Tel-'abyb,"Tel Aviv",1
 Temesvár,Timişoara,1
 "Temesvár [Timișoara]",Timişoara,1
 Timişoara,Timişoara,1
@@ -7131,6 +7225,7 @@ Temesae,Timişoara,1
 Temesvar,Timişoara,1
 Temesvárban,Timişoara,1
 Temissvar,Timişoara,1
+Timişoara-Temesvár,Timişoara,1
 Thessalonikē,Thessalonikē,1
 Thessaloniki,Thessalonikē,1
 Thessalonique,Thessalonikē,1
@@ -7178,6 +7273,10 @@ Taurini,Torino,1
 "Augusta Taurinorum",Torino,1
 "In Torino",Torino,1
 [Torino],Torino,1
+"Toronto, Ont.",Toronto,1
+"Toronto, [Ont.",Toronto,1
+"Toronto [Ont.",Toronto,1
+"Toronto, [Ont.]",Toronto,1
 Toruń,Toruń,1
 Torun,Toruń,1
 Toruni,Toruń,1
@@ -7288,6 +7387,7 @@ TübignaeTübingae,Tübingen,1
 "Tubingæ & Francofurti","Frankfurt am Main",0.5
 "Stuttgardt und Tübingen",Stuttgardt,0.5
 "Stuttgardt und Tübingen",Tübingen,0.5
+Ulaanbaatar,Ulanbator,1
 Ulmae,Ulm,1
 Ulmæ,Ulm,1
 [Ulm],Ulm,1
@@ -7320,6 +7420,9 @@ Ulmae-Memmingae,Ulm,1
 "Augustae Vindelicorum et Ulmae",Augsburg,0.5
 Užhorod,Uzhgorod,1
 Ungvár,Uzhgorod,1
+Uzsgorod,Uzhgorod,1
+Užgorod,Uzhgorod,1
+Uzshorod,Uzhgorod,1
 "Upper Saddle Rive, NJ","Upper Saddle River, NJ",1
 "Upper Saddle River, N.J., NJ","Upper Saddle River, NJ",1
 "Upper Saddle RIver, NJ","Upper Saddle River, NJ",1
@@ -8886,6 +8989,9 @@ Sepsiszentgőrgy,Sepsiszentgyörgy,1
 "Sepsiszentgyörgy [Sfântu-Gheroghe]",Sepsiszentgyörgy,1
 "Sfântul Gheorghe",Sepsiszentgyörgy,1
 "Sfántu Gheorghe",Sepsiszentgyörgy,1
+"Sfîntu Gheorghe",Sepsiszentgyörgy,1
+Sfântul-Gheorghe,Sepsiszentgyörgy,1
+"Sf. Gheorghe",Sepsiszentgyörgy,1
 Csíkszereda,Miercurea-Ciuc,1
 "Csíkszereda [Miercurea Ciuc]",Miercurea-Ciuc,1
 "Miercurea Ciuc",Miercurea-Ciuc,1
@@ -8955,8 +9061,6 @@ Nyíregháza,Nyíregyháza,1
 Nyiregháza,Nyíregyháza,1
 Lugos,Lugoj,1
 "Lugos [Lugoj]",Lugoj,1
-"Resicabánya [Reșița]",Resicabánya,1
-Reșița,Resicabánya,1
 "Székelykeresztúr [Cristuru Secuiesc]",Székelykeresztúr,1
 "Torda [Turda]",Turda,1
 Torda,Turda,1
@@ -8965,19 +9069,18 @@ Segesvár,Sighișoara,1
 Sighisoara,Sighișoara,1
 Sighişoara,Sighișoara,1
 "Szílagycseh [Cehu Silvaniei]",Szílágycseh,1
-Ujvídék,Újvidék,1
 Giula,Gyula,1
 "Giula [Gyula]",Gyula,1
 Covasna,Kovászna,1
-Baraolt,Barót,1
-"Barót [Baraolt]",Barót,1
-"Târgu Lăpuș",Magyarlápos,1
+Barót,Baraolt,1
+"Barót [Baraolt]",Baraolt,1
+Magyarlápos,"Târgu Lăpuș",1
 Zalău,Zilah,1
-Feliceni,Felsőboldogfalva,1
+Felsőboldogfalva,Feliceni,1
 Fogaras,Făgăraș,1
 Fogărăs,Făgăraș,1
 Hunedoara,Vajdahunyad,1
-Baciu,Kisbács,1
+Kisbács,Baciu,1
 "Fenyéd [Brădești]",Fenyéd,1
 Brădești,Fenyéd,1
 Cihei,Váradcsehi,1
@@ -8985,7 +9088,7 @@ Dés,Dej,1
 Fârdea,Ferde,1
 Florești,Szászfenes,1
 Ghimbav,Vidombák,1
-Negrești-Oaș,Avasfelsőfalu,1
+Avasfelsőfalu,Negrești-Oaș,1
 Portland-Oregon,"Portland, OR",1
 Săcele,Négyfalu,1
 Szekzárd,Szekszárd,1
@@ -8996,3 +9099,4 @@ Rév-Komáromban,Komárno,1
 Rév-Komárom,Komárno,1
 "Rév Komáromban",Komárno,1
 Patak,Sárospatak,1
+Badačonʹtomaj,Badacsonytomaj,1
