@@ -301,7 +301,6 @@ city,geoid,name,country,lat,long
 "Rio de Janeiro",3451190,"Rio de Janeiro","Brazil","-22.90642","-43.18223"
 "Rio de Mouro",2263827,"Rio de Mouro","Portugal","38.76613","-9.32804"
 "Roma",3169070,"Rome","Italy","41.89193","12.51133"
-"Romagna",3167373,"Santarcangelo","Italy","44.06326","12.44657"
 "Rostov",501175,"Rostov-na-Donu","Russia","47.23135","39.72328"
 "Rotterdam",2747891,"Rotterdam","Netherlands","51.9225","4.47917"
 "Rouen",2982652,"Rouen","France","49.44313","1.09932"
@@ -638,7 +637,7 @@ city,geoid,name,country,lat,long
 "Łomianki",766041,"Łomianki Dolne","Poland","52.35408","20.90514"
 "Saarbrücken",2842647,"Saarbrücken","Germany","49.23262","7.00982"
 "Radomsko",3087497,"Radomsko","Poland","51.06713","19.44477"
-"Malden, MA",4396871,"Malden","United States","36.557","-89.96648"
+"Malden, MA","4942939","Malden","United States",42.4251,-71.06616
 "Zduńska Wola",3080414,"Zduńska Wola","Poland","51.59915","18.93974"
 "Ustroń",3082751,"Ustroń","Poland","49.72153","18.80198"
 "Helmond",2754447,"Helmond","Netherlands","51.48167","5.66111"
@@ -2002,7 +2001,7 @@ city,geoid,name,country,lat,long
 "Prochowice",3088096,"Prochowice","Poland","51.27307","16.36532"
 "Ivano-Frankivsk",707471,"Ivano-Frankivsk","Ukraine","48.92312","24.71248"
 "Whitefish, MT",5686121,"Whitefish","United States","48.41108","-114.33763"
-"Donostia",3110044,"Donostia / San Sebastián","Spain","43.31283","-1.97499"
+"Donostia / San Sebastián",3110044,"Donostia / San Sebastián","Spain","43.31283","-1.97499"
 "Warangal",1252948,"Warangal","India","18","79.58333"
 "Dzięgielów",3099887,"Dzięgielów","Poland","49.72259","18.70491"
 "Todmorden",2635744,"Todmorden","United Kingdom","53.71434","-2.09701"
@@ -2012,3 +2011,201 @@ city,geoid,name,country,lat,long
 "Sandy, UT",5781061,"Sandy","United States","40.59161","-111.8841"
 "Xalapa",3526617,"Xalapa de Enríquez","Mexico","19.53124","-96.91589"
 "Niederwiesa",2862724,"Niederwiesa","Germany","50.86667","13.01667"
+"Bergisch Gladbach","2950349","Bergisch Gladbach","Germany",50.9856,7.13298
+"Nagoya","1856057","Nagoya","Japan",35.18147,136.90641
+"Sint-Stevens-Woluwe","2786548","Sint-Stevens-Woluwe","Belgium",50.86838,4.45195
+"Cuttack","1273780","Cuttack","India",20.46497,85.87927
+"Karkkila","653960","Karkkila","Finland",60.53418,24.20977
+"Frýdek-Místek","3076127","Frýdek-Místek","Czechia",49.68333,18.35
+"La Spezia","3175081","La Spezia","Italy",44.103,9.82375
+"Västerås","2664454","Västerås","Sweden",59.61617,16.55276
+"Narva","590031","Narva","Estonia",59.37722,28.19028
+"Juva","655253","Juva","Finland",61.9,27.85
+"Skara","2678210","Skara","Sweden",58.38659,13.43836
+"Évreux","3019265","Évreux","France",49.02414,1.15082
+"Uddevalla","2666670","Uddevalla","Sweden",58.34784,11.9424
+"Esplugues de Llobregat","3122826","Esplugues de Llobregat","Spain",41.37732,2.08809
+"Mariefred","2692633","Mariefred","Sweden",59.25963,17.223
+"Sjøholt","3139557","Sjøholt","Norway",62.48263,6.81376
+"Steòrnabhagh","2636790","Stornoway","United Kingdom",58.20925,-6.38649
+"Dhaka","1185241","Dhaka","Bangladesh",23.7104,90.40744
+"'s-Graveland","2747377","s-Graveland","The Netherlands",52.24,5.11806
+"Aartselaar","2803420","Aartselaar","Belgium",51.13412,4.38678
+"Lahore","1172451","Lahore","Pakistan",31.558,74.35071
+"Lopik","2751436","Lopik","The Netherlands",51.9725,4.94861
+"Örebro","2686657","Örebro","Sweden",59.27412,15.2066
+"Stabekk","3137232","Stabekk","Norway",59.90838,10.60146
+"Orly","2989297","Orly","France",48.74792,2.39253
+"Ichikawa","11837657","Ichikawa","Japan",35.73413,139.9065
+"Bromma","2719111","Bromma","Sweden",59.34,17.94
+"Valby","2610802","Valby","Denmark",55.66613,12.51388
+"Bhopal","1275841","Bhopāl","India",23.25469,77.40289
+"Vällingby","2665419","Vällingby","Sweden",59.36441,17.87407
+"Annemasse","3037538","Annemasse","France",46.19439,6.23775
+"Baambrugge","2759572","Baambrugge","The Netherlands",52.24583,4.98889
+"Oirschot","2749683","Oirschot","The Netherlands",51.505,5.31389
+"Veenendaal","2745774","Veenendaal","The Netherlands",52.02863,5.55891
+"Wijnegem","2783684","Wijnegem","Belgium",51.22787,4.51895
+"Espoo","660158","Espoo","Finland",60.2052,24.6522
+"Ramat Gan","293788","Ramat Gan","Israel",32.08227,34.81065
+"Aberystwyth","2657782","Aberystwyth","United Kingdom",52.41548,-4.08292
+"Arganda del Rey","3129636","Arganda","Spain",40.30076,-3.43722
+"Nîmes","2990363","Nîmes","France",43.83665,4.35788
+"Rodez","2983154","Rodez","France",44.35258,2.57338
+"Frederiksberg","2621942","Frederiksberg","Denmark",55.67938,12.53463
+"Nanjing","1799962","Nanjing","China",32.06167,118.77778
+"Guilin","1809498","Guilin","China",25.28022,110.29639
+"Novi Beograd","787607","Novi Beograd","Serbia",44.80556,20.42417
+"Joškar-Ola","466806","Yoshkar-Ola","Russia",56.63877,47.89078
+"Herne","2905891","Herne","Germany",51.5388,7.22572
+"Ozoir-la-Ferrière","2988867","Ozoir-la-Ferrière","France",48.76699,2.66871
+"Riad","108410","Riyadh","Saudi Arabia",24.68773,46.72185
+"Cangas do Morrazo","3126577","Cangas do Morrazo","Spain",42.26413,-8.78463
+"Idrifaia","675741","Idrifaia","Romania",46.38758,24.46444
+"Helsingborg","2706767","Helsingborg","Sweden",56.04673,12.69437
+"Mülheim","2867838","Mülheim","Germany",51.43218,6.87967
+"Saransk","498698","Saransk","Russia",54.1838,45.1749
+"Maynooth","2962668","Maynooth","Ireland",53.385,-6.59361
+"Soveria Mannelli","2523043","Soveria Mannelli","Italy",39.07784,16.37708
+"Unterwart","2762572","Unterwart","Austria",47.26399,16.22901
+"Glostrup","2621356","Glostrup","Denmark",55.6666,12.40377
+"Haifa","294801","Haifa","Israel",32.81841,34.9885
+"Zlín","3061370","Zlín","Czechia",49.22645,17.67065
+"Haskovo","730435","Haskovo","Bulgaria",41.93415,25.55557
+"Ringwood, Vic.","2151576","Ringwood","Australia",-37.81667,145.23333
+"Dombóvár","3053590","Dombóvár","Hungary",46.37657,18.13696
+"Astor, FL","4146339","Astor","United States",29.16248,-81.52535
+"Marlboro, VT","5238331","Marlboro","United States",42.85953,-72.72593
+"Inverness","2646088","Inverness","United Kingdom",57.47908,-4.22398
+"Iserlohn","2895669","Iserlohn","Germany",51.37547,7.70281
+"Samara","499099","Samara","Russia",53.20007,50.15
+"Jönköping","2702979","Jönköping","Sweden",57.78145,14.15618
+"Gardolo","13236886","Gardolo","Italy",46.10605,11.11229
+"Bredstedt","2944879","Bredstedt","Germany",54.61868,8.96441
+"Weert","2744911","Weert","The Netherlands",51.25167,5.70694
+"Meudon","2994144","Meudon","France",48.81381,2.235
+"Kottayam","1265911","Kottayam","India",9.58692,76.52132
+"Neuilly-sur-Seine","2990611","Neuilly-sur-Seine","France",48.8846,2.26965
+"Caernarfon","2654092","Caernarfon","United Kingdom",53.14126,-4.27016
+"Stara Zagora","726848","Stara Zagora","Bulgaria",42.43278,25.64194
+"Lunteren","2751385","Lunteren","The Netherlands",52.085,5.62222
+"Bagsværd","2624388","Bagsværd","Denmark",55.76095,12.45317
+"Pordenone","3170147","Pordenone","Italy",45.95689,12.66051
+"Viterbo","3164039","Viterbo","Italy",42.41937,12.1056
+"Irkutsk","2023469","Irkutsk","Russia",52.29795,104.29585
+"Chelyabinsk","1508291","Chelyabinsk","Russia",55.15402,61.42915
+"Monte-Carlo","2992741","Monte-Carlo","Monaco",43.73976,7.42732
+"Fukuoka","1863967","Fukuoka","Japan",33.6,130.41667
+"Xi'an","1790630","Xi’an","China",34.25833,108.92861
+"Plymouth, PA","5206659","Plymouth","United States",41.24036,-75.94464
+"Huntsville, TX","4699540","Huntsville","United States",30.72353,-95.55078
+"Galva, IL","4893424","Galva","United States",41.16754,-90.04261
+"Londrina","3458449","Londrina","Brazil",-23.31028,-51.16278
+"Sterling, VA","4787534","Sterling","United States",39.00622,-77.4286
+"Ballard, WA","5786269","Ballard","United States",47.67593,-122.38735
+"Farmington, MN","5026321","Farmington","United States",44.64024,-93.14355
+"Blair, NE","5064236","Blair","United States",41.54444,-96.12502
+"Chevy Chase, MD","4351335","Chevy Chase","United States",39.00287,-77.07115
+"Moline, IL","4902476","Moline","United States",41.5067,-90.51513
+"Holland, MI","4996248","Holland","United States",42.78752,-86.10893
+"Rockville, MD","4367175","Rockville","United States",39.084,-77.15276
+"Brookline, MA","4931482","Brookline","United States",42.33176,-71.12116
+"Fairfield, IA","4855967","Fairfield","United States",41.00863,-91.96267
+"Raleigh, NC","4487042","Raleigh","United States",35.7721,-78.63861
+"Cutchogue, NY","5114401","Cutchogue","United States",41.01066,-72.48509
+"Hollywood, FL","4158928","Hollywood","United States",26.0112,-80.14949
+"Merrick, NY","5126630","Merrick","United States",40.66288,-73.55152
+"Overland Park, KS","4276873","Overland Park","United States",38.98223,-94.67079
+"Port Townsend, WA","5807239","Port Townsend","United States",48.11742,-122.76071
+"Orange, CT","4840104","Orange","United States",41.27843,-73.02566
+"Radford, VA","4780837","Radford","United States",37.13179,-80.57645
+"West Valley City, UT","5784607","West Valley City","United States",40.69161,-112.00105
+"Chestnut Hill, MA","4932957","Chestnut Hill","United States",42.33065,-71.16616
+"McLean, VA","4772354","McLean","United States",38.93428,-77.17748
+"Lindenhurst, NY","5124497","Lindenhurst","United States",40.68677,-73.37345
+"Forest Grove, OR","5727190","Forest Grove","United States",45.51984,-123.11066
+"Doylestown, PA","5187247","Doylestown","United States",40.31011,-75.12989
+"Morrisville, NC","4480285","Morrisville","United States",35.82348,-78.82556
+"Norwalk, CT","4839822","Norwalk","United States",41.1176,-73.4079
+"Normal, IL","4903780","Normal","United States",40.5142,-88.99063
+"Hopewell, NJ","5099312","Hopewell","United States",40.38927,-74.76183
+"Somerville, MA","4951257","Somerville","United States",42.3876,-71.0995
+"Fairhope, AL","4061234","Fairhope","United States",30.52297,-87.90333
+"Logan, IA","4865287","Logan","United States",41.64305,-95.7889
+"Fredonia, NY","5117926","Fredonia","United States",42.44006,-79.33171
+"Floyd, VA","4759446","Floyd","United States",36.91124,-80.32005
+"Sanbornville, NH","5092346","Sanbornville","United States",43.55425,-71.0309
+"Malden, MO","4396871","Malden","United States",36.557,-89.96648
+"Mattituck, NY","5126239","Mattituck","United States",40.99121,-72.53425
+"Franklin Center, PA","5190331","Franklin Center","United States",41.93561,-80.22478
+"Riverdale-on-Hudson, NY","5133917","Riverdale","United States",40.90056,-73.90639
+"Staten Island, NY","5139568","Staten Island","United States",40.56233,-74.13986
+"West Haven, CT","4845419","West Haven","United States",41.27065,-72.94705
+"Tempe, AZ","5317058","Tempe","United States",33.41477,-111.90931
+"Waterville, ME","4982236","Waterville","United States",44.55201,-69.63171
+"Stoughton, WI","5274787","Stoughton","United States",42.91695,-89.21789
+"Oyster Bay, NY","5130327","Oyster Bay","United States",40.86565,-73.53207
+"Køge","2618415","Køge","Denmark",55.45802,12.18214
+"Ōsaka","1853909","Osaka","Japan",34.69379,135.50107
+"Nuuk","3421319","Nuuk","Greenland",64.18347,-51.72157
+"La Rochelle","3006787","La Rochelle","France",46.16308,-1.15222
+"Himberg","2776401","Himberg","Austria",48.08333,16.43333
+"Charlottenlund","2623188","Charlottenlund","Denmark",55.75238,12.5745
+"Gauhati","1271476","Guwahati","India",26.1844,91.7458
+"Celje","3202781","Celje","Slovenia",46.23092,15.26044
+"Changchun","2038180","Changchun","China",43.88,125.32278
+"Chongqing","1814906","Chongqing","China",29.56026,106.55771
+"Wodzisław Śląski","3081677","Wodzisław Śląski","Poland",50.00377,18.47205
+"Bitola","792578","Bitola","North Macedonia",41.03143,21.33474
+"Halliste","592197","Halliste","Estonia",58.33667,25.09833
+"P'aju","1840898","Paju","South Korea",37.761,126.77272
+"Broumov","3078577","Broumov","Czechia",50.58566,16.33181
+"Hangzhou","1808926","Hangzhou","China",30.29365,120.16142
+"Montreuil","2992090","Montreuil","France",48.86415,2.44322
+"Varennes, QC","6173508","Varennes","Canada",45.68338,-73.43246
+"Třebíč","3064104","Třebíč","Czechia",49.21492,15.88166
+"Nazran","523064","Nazran","Russia",43.22597,44.77323
+"Velika Gorica","3188244","Velika Gorica","Croatia",45.7125,16.07556
+"Smederevo","785756","Smederevo","Serbia",44.66436,20.92763
+"Hefei","1808722","Hefei","China",31.86389,117.28083
+"Voznice","3062557","Voznice","Czechia",49.81715,14.21654
+"Szwajcaria","3083595","Szwajcaria","Poland",52.13409,18.314
+"Villenave-d'Ornon","2968620","Villenave-d'Ornon","France",44.77935,-0.56707
+"Łask","3093902","Łask","Poland",51.59056,19.13278
+"Santarcangelo","3167373","Santarcangelo","Italy",44.06326,12.44657
+"Banja Luka","3204541","Banja Luka","Bosnia and Herzegovina",44.77842,17.19386
+"Gossau","2660549","Gossau","Switzerland",47.41551,9.25482
+"Łubowice","11497515","Łubowice","Poland",50.16139,18.23583
+"Knjazevac","6619277","Knjazevac","Serbia",43.56634,22.25701
+"Bindlach","2948840","Bindlach","Germany",49.98167,11.61389
+"Tórshavn","2611396","Tórshavn","Faroe Islands",62.00973,-6.77164
+"Luboń","3092856","Luboń","Poland",52.34705,16.89267
+"Struga","785387","Struga","North Macedonia",41.17799,20.67784
+"Polanica Zdrój","3088496","Polanica-Zdrój","Poland",50.40373,16.51271
+"Zhytomyr","686967","Zhytomyr","Ukraine",50.26487,28.67669
+"Bennebroek","2759199","Bennebroek","The Netherlands",52.32083,4.59861
+"Tržič","3188688","Tržič","Slovenia",46.36357,14.31046
+"Ramučiai","595393","Ramučiai","Lithuania",54.9483,24.0305
+"Dinslaken","2936871","Dinslaken","Germany",51.56227,6.7434
+"Wisbech","2633771","Wisbech","United Kingdom",52.66622,0.15938
+"Sulejówek","757809","Sulejówek","Poland",52.25221,21.26902
+"Stevenage","2636940","Stevenage","United Kingdom",51.90224,-0.20256
+"Sawtry","2638473","Sawtry","United Kingdom",52.43984,-0.28422
+"Čačak","792078","Čačak","Serbia",43.89139,20.34972
+"Brovarì","711390","Brovary","Ukraine",50.51809,30.80671
+"Říčany","3066878","Říčany","Czechia",49.99168,14.65427
+"Osielsko","3089881","Osielsko","Poland",53.18505,18.08418
+"Herning","2620425","Herning","Denmark",56.13615,8.97662
+"Kotōrz Mały","3095001","Kotórz Mały","Poland",50.73217,18.04744
+"Salerno","3168673","Salerno","Italy",40.67545,14.79328
+"Ludwigsburg","2875392","Ludwigsburg","Germany",48.89731,9.19161
+"Ócsa","3047206","Ócsa","Hungary",47.29986,19.23057
+"Fülek","3060242","Fiľakovo","Slovakia",48.26757,19.82473
+"Bakonybél","3055646","Bakonybél","Hungary",47.25543,17.72805
+"Balatonendréd","3055578","Balatonendréd","Hungary",46.83861,17.98176
+"Balatonfőkajár","3055572","Balatonfőkajár","Hungary",47.02084,18.2126
+"Balatonfűzfő","3055563","Balatonfűzfő","Hungary",47.06667,18.05
+"Bánfalva","722599","Bánhorváti","Hungary",48.23333,20.51667
+"Bugac","3054612","Bugac","Hungary",46.68704,19.68074
+"Bethlehem, PA","5180225","Bethlehem","United States",40.62593,-75.37046
+"Beuvry","3032903","Beuvry","France",50.51674,2.68541
