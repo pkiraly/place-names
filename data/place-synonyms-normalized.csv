@@ -21,6 +21,7 @@ Compluti,"Alcalá de Henares",1
 "in Complutensi Academia","Alcalá de Henares",1
 "Allendale, NJ [etc.]: Alleluia Press","Allendale, NJ",1
 Almaty,Alma-Ata,1
+Almatü,Alma-Ata,1
 Alsólindva,Alsólendva,1
 Lendva,Alsólendva,1
 Lendava,Alsólendva,1
@@ -462,19 +463,19 @@ Augustae-Vindelicorum,Augsburg,1
 "Augustae Vind. et Wirceburgi",Augsburg,0.5
 "Augustae Vind. et Wirceburgi",Würzburg,0.5
 "Augustae Vindelicorum & Dilingae",Augsburg,0.5
-"Augustae Vindelicorum & Dilingae",Dilingen,0.5
+"Augustae Vindelicorum & Dilingae",Dillingen,0.5
 "Augustae Vindelicorum et Dilingae",Augsburg,0.5
-"Augustae Vindelicorum et Dilingae",Dilingen,0.5
+"Augustae Vindelicorum et Dilingae",Dillingen,0.5
 "Augspurg und Dillingen",Augsburg,0.5
-"Augspurg und Dillingen",Dilingen,0.5
+"Augspurg und Dillingen",Dillingen,0.5
 "Augustæ Vindelicorum & Dilingæ",Augsburg,0.5
-"Augustæ Vindelicorum & Dilingæ",Dilingen,0.5
+"Augustæ Vindelicorum & Dilingæ",Dillingen,0.5
 "Augustae Vindel & Dilingae",Augsburg,0.5
-"Augustae Vindel & Dilingae",Dilingen,0.5
+"Augustae Vindel & Dilingae",Dillingen,0.5
 "Augustae Vindel. et Dilingae",Augsburg,0.5
-"Augustae Vindel. et Dilingae",Dilingen,0.5
+"Augustae Vindel. et Dilingae",Dillingen,0.5
 "Augustae, Vindelicorum & Dilingae",Augsburg,0.5
-"Augustae, Vindelicorum & Dilingae",Dilingen,0.5
+"Augustae, Vindelicorum & Dilingae",Dillingen,0.5
 "Ingolstadii et Augustae Vindelicorum, Grätz",Augsburg,0.33333333333333
 "Ingolstadii et Augustae Vindelicorum, Grätz",Ingolstadt,0.33333333333333
 "Ingolstadii et Augustae Vindelicorum, Grätz",Graz,0.33333333333333
@@ -786,6 +787,7 @@ Berlin:,Berlin,1
 "w Berlinie",Berlin,1
 "W Berlinie",Berlin,1
 "Warschau [wł. Berlin]",Berlin,1
+"Berlin ..",Berlin,1
 "Berlin und Libau",Berlin,1
 "Berolini et Francofurti ad Oderam",Berlin,1
 "Berlin und Dessau",Berlin,1
@@ -1337,6 +1339,8 @@ Bucures̆ti,Bucureşti,1
 Bucuresci,Bucureşti,1
 "Bucuresţi : Tip. Grecescu",Bucureşti,1
 Bucures̜ti,Bucureşti,1
+Bukarets,Bucureşti,1
+Bukurešti,Bucureşti,1
 "Varsovia ; Bucuresti",Warszawa,0.5
 "Varsovia ; Bucuresti",Bucureşti,0.5
 Budae,Buda,1
@@ -1653,6 +1657,7 @@ Darmstadii,Darmstadt,1
 New-Delhi,Delhi,1
 Delf,Delft,1
 Delf.,Delft,1
+"Te Delft",Delft,1
 "'s Gravenhage","Den Haag",1
 's-Gravenhage,"Den Haag",1
 'S-Gravenhage,"Den Haag",1
@@ -2048,6 +2053,7 @@ Friburgi,Freiburg,1
 "Friburgi Brisgoja",Freiburg,1
 "Fribvrgi Brisgoviae",Freiburg,1
 "[Freiburg i. Br.]",Freiburg,1
+Freiburg/Br.,Freiburg,1
 "Augsburg und Freyburg im Breisgau",Freiburg,1
 "Augsburg und Freyburg in Breisgau",Freiburg,1
 "Augspurg und Freyburg im Breißgau",Freiburg,1
@@ -5484,6 +5490,7 @@ Túrócszentmárton,Martin,1
 Turócz-Szt.-Márton,Martin,1
 "A Marseille",Marseille,1
 "Meisenheim am Glan",Meisenheim,1
+"Melbourne, Vic.",Melbourne,1
 "Merrick, New York","Merrick, NY",1
 "Merrick, New York, USA","Merrick, NY",1
 "Métuchen, NJ","Metuchen, NJ",1
@@ -5594,6 +5601,7 @@ Monachij,München,1
 (München),München,1
 [München?],München,1
 Muenchen,München,1
+Müchen,München,1
 "Monachii, Pedeponti",München,1
 "München und Ingolstadt",München,1
 "München und Salzburg",München,1
@@ -8018,6 +8026,7 @@ Wilno:,Vilnius,1
 "Przedrukowany w Wilnie",Vilnius,1
 "W Warszawie [to jest Wilno]",Vilnius,1
 "W WIlnie",Vilnius,1
+"Wilno [Vilnius",Vilnius,1
 Voronež,Voronezh,1
 Wiborg,Vyborg,1
 Wiburgi,Vyborg,1
@@ -9153,6 +9162,7 @@ Schweidnitz,Świdnica,1
 Bayrūt,Beirut,1
 Bayrūt,Beirut,1
 Bejrut,Beirut,1
+Beyrut,Beirut,1
 Charlottesville,"Charlottesville, VA",1
 Gainesville,"Gainesville, FL",1
 Burlington,"Burlington, VT",1
